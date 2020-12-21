@@ -5,7 +5,7 @@ end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
-  my_hash = {:birthday => Time.now}
+  my_hash = {:birthday => "Jan, 14, 1987"}
 end
 
 def pioneer
